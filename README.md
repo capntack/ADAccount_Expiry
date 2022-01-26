@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 
 To install ADAccount Expiry, follow these steps:
 
-* Download the folder to a location of your choosing.
+* Download the release Source code and place the contents into folder at a location of your choosing.
 
 ## Using ADAccount Expiry
 
