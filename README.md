@@ -1,4 +1,4 @@
-# ADAccount Expiry PS Script v.2022.26.01-1.0.0
+# ADAccount Expiry PS Script v2022.26.01-1.0.0
 
 ADAccount Expiry is a script that allows AD Admins to export into the Script's Current Directory a CSV report on Active Directory Accounts that are Expired, Expiring within 2 weeks, and/or Disabled..
 
